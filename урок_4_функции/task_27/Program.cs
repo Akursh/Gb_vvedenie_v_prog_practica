@@ -1,5 +1,5 @@
 ﻿/*
-Задача 27: (branch task_2)
+Задача 27:
 Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 452 -> 11
 82 -> 10
@@ -9,7 +9,6 @@
 int number = ReadInt("Введите число: ");
 int len = NumberLen(number);
 SumNumbers(number, len);
-
 
 // Функция ввода
 int ReadInt(string message)

@@ -9,7 +9,6 @@ int numberA = ReadInt("Введите число A: ");
 int numberB = ReadInt("Введите число B: ");
 ToDegree(numberA, numberB);
 
-
 // Функция возвели  в степень
 void ToDegree(int a, int b)
 {
